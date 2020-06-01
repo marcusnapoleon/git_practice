@@ -3,7 +3,7 @@
 CodeCademy PRO - Computer Science Track
 Getting Started with Git and Github
 
-### Learning Objective
+## Learning Objective
 
 1. Learn how to set up Git and GitHub on local machine/computer.
 2. Creating and/or connect to an GitHub existing account.
@@ -16,7 +16,7 @@ Getting Started with Git and Github
 
 
 
-## Acknowledgments
+### Acknowledgments
 
 * CodeCademy
 * GitHub
